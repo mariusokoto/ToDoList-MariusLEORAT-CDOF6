@@ -2,7 +2,7 @@
 
 
 ## Description
-Task Tracker is a console-based application that helps users keep track of tasks. You can add, delete, and mark tasks as completed. This lightweight tool is ideal for managing your personal or small project task lists.
+ToDoList is a console-based application that helps users keep track of tasks. You can add, delete, and mark tasks as completed. This lightweight tool is ideal for managing your personal or small project task lists.
 
 ## How to Run the Project
 1. Clone the repository to your local machine:
