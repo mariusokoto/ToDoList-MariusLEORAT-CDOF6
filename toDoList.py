@@ -17,7 +17,7 @@ class TaskTracker:
         print(f"Task added: {description}")
 
     def delete_task(self, task_id):
-        if 0 <= task_id < len(self.tasks):
+        if 0 <= task_id <= len(self.tasks):
             removed_task = self.tasks.pop(task_id)
             print(f"Task deleted: {removed_task.description}")
         else:
